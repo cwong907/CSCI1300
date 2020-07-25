@@ -1,0 +1,3 @@
+Seattle Coffee, 12.54, 39
+Denver Mints, 1.00, 1877
+Computer, 699.95, 16
